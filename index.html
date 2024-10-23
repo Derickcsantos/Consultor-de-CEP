@@ -15,8 +15,15 @@
     </div>
     <a href="https://github.com/Derickcsantos"><button class="marketing">Sobre mim</button></a>
 
-    <div class="notificacao">
+    <div id="popup" class="notificacao">
+        <i onclick="fecharPopup()" id="closePopup" class="fa-solid fa-xmark"></i>
         <h2>Dados do CEP</h2>
+
+        <p id="pUF"></p>
+        <p id="pLocal"></p>
+        <p id="pRua"></p>
+        <p id="pCEP"></p>
+
     </div>
     
     <script src="script.js"></script>

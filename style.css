@@ -68,11 +68,29 @@ body{
     top: 64%;
 }
 
+.notificacao i{
+    color: red;
+    position: fixed;
+    top: 10px;
+    right: 10px;
+    font-size: 20px;
+}
+
 .container p{
     text-align: center;
     display: flex;
     justify-content: justify;
     color: #bebebe;
+}
+
+.notificacao p{
+    position: fixed;
+    left: 20px;
+}
+
+#pLocal{
+    position: fixed;
+    top: 70px;
 }
 
 .marketing{
