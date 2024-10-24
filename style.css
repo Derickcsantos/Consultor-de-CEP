@@ -83,14 +83,16 @@ body{
     color: #bebebe;
 }
 
-.notificacao p{
-    position: fixed;
-    left: 20px;
+.dados{
+    position: absolute;
+    top: 60%;
+    left: 45%;
+    transform: translate(-50%, -50%);
+    justify-content: center;
 }
 
-#pLocal{
-    position: fixed;
-    top: 70px;
+.dados p{
+    margin: 5px;
 }
 
 .marketing{

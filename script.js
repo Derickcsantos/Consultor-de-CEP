@@ -12,10 +12,10 @@ document.getElementById('pesquisar').addEventListener('click', async function(){
     console.log(`Logradouro: ${logradouro}`);
     console.log(`CEP: ${cep}`);
 
-    document.getElementById('pUF').innerHTML = `UF: ${uf}`
-    document.getElementById('pLocal').innerHTML = `Cidade: ${cidade}`
-    document.getElementById('pRua').innerHTML = `Rua: ${logradouro}`
-    document.getElementById('pCEP').innerHTML = `CEP: ${cep}`
+    document.getElementById('pUF').innerHTML = `<strong>UF:</strong> ${uf}`
+    document.getElementById('pLocal').innerHTML = `<strong>Cidade:</strong> ${cidade}`
+    document.getElementById('pRua').innerHTML = `<strong>Rua:</strong> ${logradouro}`
+    document.getElementById('pCEP').innerHTML = `<strong>CEP:</strong> ${cep}`
     
 })
 
