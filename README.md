@@ -18,3 +18,28 @@ Para clonar o repositório, utilize o comando:
 
 ```bash
 git clone https://github.com/derickcsantos/ConsultorDeCEP.git
+```
+
+Instalando as dependências
+```bash
+npm Install
+```
+
+Inicializando o servidor
+```bash
+npm run start
+```
+
+## Tecnologias Utilizadas
+
+**Node.js**: Ambiente de execução Javascript do lado do Servidor.
+
+**Javascript**: Linguagem de programação principal do projeto, utilizado para trabalhar a interação da pagina e a manipulação da API.
+
+**HTML**: Linguagem de marcação, utilizada para a estruturação do projeto.
+
+**CSS**: Linguagem de estilização, utilizada para trabalhar o Design responsivo e interativo com o usuario.
+
+**VlibrasAPI**: API utilizada com a finalidade de trazer acessibilidade, [Link da API](https://www.gov.br/conecta/catalogo/apis/vlibras/vlibras-v3-1-swagger-artesanal-json/swagger_view)
+
+**ViaCEP**: API utilizada para buscar os dados de CEP, [Link da API](https://viacep.com.br/)
