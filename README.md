@@ -22,7 +22,6 @@ git clone https://github.com/Derickcsantos/Consultor-de-CEP.git
 
 ## Tecnologias Utilizadas
 
-**Node.js**: Ambiente de execução Javascript do lado do Servidor.
 
 **Javascript**: Linguagem de programação principal do projeto, utilizado para trabalhar a interação da pagina e a manipulação da API.
 
