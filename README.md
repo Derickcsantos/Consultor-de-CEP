@@ -20,16 +20,6 @@ Para clonar o repositório, utilize o comando:
 git clone https://github.com/Derickcsantos/Consultor-de-CEP.git
 ```
 
-Instalando as dependências
-```bash
-npm Install
-```
-
-Inicializando o servidor
-```bash
-npm run start
-```
-
 ## Tecnologias Utilizadas
 
 **Node.js**: Ambiente de execução Javascript do lado do Servidor.
