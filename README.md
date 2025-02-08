@@ -10,7 +10,7 @@ Projeto feito com a API da VIA CEP, com a finalidade de desenvolver minhas habil
 
 🔗 Para conhecer mais do meu trabalho, [clique aqui](https://www.linkedin.com/in/derickcampossantos/)
 
-🌍 Link do projeto: [clique aqui](https://derickcsantos.github.io/ConsultorDeCEP)
+🌍 Link do projeto: [clique aqui](https://consultordecep-dcs.vercel.app/)
 
 ## Como clonar o repositório
 
