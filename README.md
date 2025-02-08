@@ -17,7 +17,7 @@ Projeto feito com a API da VIA CEP, com a finalidade de desenvolver minhas habil
 Para clonar o repositório, utilize o comando:
 
 ```bash
-git clone https://github.com/derickcsantos/ConsultorDeCEP.git
+git clone https://github.com/Derickcsantos/Consultor-de-CEP.git
 ```
 
 Instalando as dependências
